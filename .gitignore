@@ -1,0 +1,59 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temporary files
+*.vsp
+*.vspscc
+*.vssscc
+*.vs/
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.pdb
+*.ide
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover files
+*.dotCover
+
+# Visual Studio Code files
+.vscode/
+
+# MonoDevelop files
+*.pidb
+*.userprefs
+
+# ASP.NET temporary files
+_AppData/
+*.publishsettings
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Entity Framework
+*.edmx.sql
+
+# Dotnet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
