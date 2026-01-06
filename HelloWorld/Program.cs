@@ -67,5 +67,30 @@ public static void NextEvenNumers(){
         Program p = new Program();
         p.EvenNumbers();    
        Program.NextEvenNumers();
+       ProjectA.TeamA .ClassA.Print();
+       ProjectA.TeamB .ClassA.Print();
 }
+}
+
+
+
+namespace ProjectA{
+    namespace TeamA{
+        class ClassA{
+            public static void Print(){
+                Console.WriteLine("Team A print Method");
+            }
+        }
+    }
+}
+
+
+namespace ProjectA{
+    namespace TeamB{
+        class ClassA{
+            public static void Print(){
+                Console.WriteLine("Team B print Method");
+            }
+        }
+    }
 }
